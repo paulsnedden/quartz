@@ -1,0 +1,20 @@
+---
+Tags: Note
+Name: 2023 - Mid Year
+Created: 2023-01-24
+---
+# 2023 - Mid Year - [[2023-01-24]]
+## Notes
+The first half of this year has been an interesting one. The biggest change is that, after almost four years with Big W, I made the decision to move to another part of the Group and try my hand at Coaching somewhere else. From January 30, I am working full-time in the People Team.
+
+During H1, I closed out the three Agile Advocate Families that I was running, and have successfully embedded the agile mindset with those Family members. Some of the feedback I received during the program really shows how successful this program has been - "best training ever" and "amazing program" were common. The program has been so well-received that we no longer have to ask for participants. Instead, people who have gone through the program are now asking if their colleagues can join. That's an amazing achievement.
+
+I was asked to do some work with the Big W Brand and Marketing team during H1, to help them sort through the capacity issues they were facing. Coupled with that was their inability to truly visualise the work they had in-progress at any time.  To achieve this, I worked closely with the Transformation Manager in that team and we developed a "Delivery Forum" for the Marketing LT on a weekly basis. Similar to a Standup, this event (which included a custom Miro board) was used to recognise the most-important pieces of work that the team had at the time, to make judgement/priority calls on same, and to consciously determine when a piece of work would be "Not Done" (either for the week, or ongoing). This event really helped to get capacity under control and allowed the larger team to concentrate on just the customer-centric value-adding pieces of work at any one time. The second half of the Delivery Forum event was what they called an "After Party", where a sub-section of the team would stay behind to deep dive on any issues raised. From a Coaching perspective, I was adamant about ensuring that not all team members had to stay behind and that it was quite acceptable to leave the meeting if you were not directly involved. It took a little while for "FOMO" (Fear Of Missing Out) to dwindle, but once it did then the success that came from it was evident. Team members now had more time to do other work, and could be updated later about the results of the After Party discussion, if required.
+
+From a development perspective, there were two courses that I wanted to successfully complete during H1. These have both been completed. They were Coaching Agile Transformations and Leading With Agility. I am now looking to consolidate these learnings into my day to day role in the People Team and future engagements, but also to further develop the skills required to be both a better Agile Coach as well as a better Transformation Enablement team member.
+
+The Big W goals that I set for myself or were cascaded by my line manager have either been completed or set to cancel due to my change in role. I am still working to determine my H2 goals with the People team, but look forward to a successful Q3 and Q4.
+
+As always, I put out a brief survey to my stakeholders during both Q1 and Q2 so that I could garner feedback on myself as an Agile Coach and the services I provide. The overall personal NPS that I received was 9.72 / 10, which I am very proud and honoured to see. From the feedback provided, an area I need to work on is to better "meet the team where they are". I see this as representing my need to develop a better understanding of the business needs of the teams and stakeholders I work with, rather than diving head-long into a predisposed idea that I may have in mind. This was one of the driving forces behind my decision to move to another part of the Group, to better enhance my Group-wide knowledge.
+
+H2 will be a very challenging time, but I look forward to it with anticipation. It will be a great time for me to grow as a Coach, and to develop my skillset on my roadmap becoming a Senior Agile Coach.

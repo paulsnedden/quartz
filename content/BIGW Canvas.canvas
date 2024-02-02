@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"602ab1004bc8082e","x":-200,"y":-380,"width":400,"height":400,"type":"file","file":"People/Sarah Wood.md"},
+		{"id":"e91756a24c36282e","x":-308,"y":201,"width":250,"height":60,"type":"text","text":"Current Projects"},
+		{"id":"2115ab33fb3172a0","x":-250,"y":456,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"ab0ae42fa017bfe0","fromNode":"e91756a24c36282e","fromSide":"top","toNode":"602ab1004bc8082e","toSide":"bottom"}
+	]
+}

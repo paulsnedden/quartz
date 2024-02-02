@@ -1,0 +1,17 @@
+---
+Tags: Note
+Created: 2022-01-29
+---
+# Half Yearly Reflection (2022-01-29) - [[2022-01-29]]
+## Notes
+The first six months of this year have been quite an interesting one for me personally. My role was moved formally into the GAP, which has allowed me to take on more of a consultancy role in my primary function as Coach for Big W X as well as the Blacktown Hothouse and Data Analytics and Insights teams.
+
+For Big W X, there is still much to do with this arm of the Big W business, as team growth and some underlying issues have resulted in a less than ideal culture. In my opinion, the lack of dedicated/experienced ATFs in the development squads continues to be a hindrance but I understand that Big W X do not want to employ dedicated ATFs at this time. The challenge for me for this quarter is to upskill the hatted ATFs that are in-place, to ensure a growth and continuous improvement mindset. I have not focused on team velocity at all this quarter, as the turnover of staff has been too great right across the delivery team. In a recent exit interview that I did with a Tech Lead for one of the delivery squads, he mentioned that there is "subtle bullying" occurring from certain team members (not from his direct squad). Coupled with that, in his opinion, is that the culture in the team is one that doesn't reward honesty. There's also a bit of a "dishonest vibe" that he gets from a number of the Big W X LT. Whilst this is opinion, it's certainly something that should be discussed with the individuals involved.
+
+The Blacktown Hothouse and DAI projects are still very much in their early days for me. There is a lot of passion in the Hothouse team to align themselves with agile ways of working, and DAI have a very passionate ATF who is willing and open to learn and try new things with his squads. Providing quite introductory concepts and ideas with both these teams has been very enjoyable as it provides a nice counterpoint to the much more complex Big W X team.
+
+The addition of two more Agile Coaches into Big W has been very welcome by me personally, as I can now have conversations with Coaches who will understand the business and the challenges it faces. I look forward to continuing this relationship into H2 and beyond.
+
+Looking at H2, my plan is to continue with Big W X. The issues I mentioned above, if true, clearly need to be addressed. The current environment is not one that will permeate long-term team members, in that developers have often come into the team, see the real technologies in-place, and then choose to leave the team. Whilst this won't be possible to resolve in the short-term, perhaps a more-thorough understanding of what happens during job interviews is needed. I have setup one-on-ones with the Engineering Managers and Technical BAs (those playing the role of ATF) so that I can maintain a relationship with the right people involved in delivery. To determine a new baseline, I have locked in a number of strategic retrospectives with the delivery squads. Once complete, I'll work with the ATFs on formulating a plan for the health of their relevant squads.
+
+For DAI and the Hothouse, I will continue to upskill the relevant team members. Both have a mindset retro in-place as a baseline, so the step for the remainder of this quarter will be to perform another retro and determine the growth that has occurred.

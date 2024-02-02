@@ -1,0 +1,1 @@
+https://nypost.com/2023/09/22/are-you-a-cowboy-fairy-angel-or-knight-viral-cfak-quiz-will-reveal-your-secret/
